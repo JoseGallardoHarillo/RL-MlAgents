@@ -1,4 +1,9 @@
 # RL-MlAgents
-En este proyecto exploramos los límites de la herramienta "mlAgents" de Unity, realizando experimentos de complejidad creciente.
+In this project, we explore the limits of Unity's 'mlAgents' tool, conducting experiments of increasing complexity.
+"Consult the project documentation "memoria.pdf" for more information."
 
-El proyecto se ubica actualmente en https://drive.google.com/drive/folders/1z3C4XT_3cspKU4S3m7A6x9Y--j3iHP_k?usp=sharing
+## Requirements
+- **Unity version:** 2021.3.6f1
+
+## Contact
+- For any questions or support, feel free to reach out.
