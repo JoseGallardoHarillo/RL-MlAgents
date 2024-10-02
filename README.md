@@ -6,4 +6,4 @@ Consult the project documentation "memoria.pdf" for more information.
 - **Unity version:** 2021.3.6f1
 
 ## Contact
-- For any questions or support, feel free to reach out.
+- For any questions or support, feel free to reach out: josegallardoharillo@gmail.com
